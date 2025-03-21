@@ -1,6 +1,6 @@
 # 🌐 Daniel Zhong's Personal Portfolio
 
-[Link](https://danielzhong.github.io/)
+## [Link](https://danielzhong.github.io/)
 
 This is my personal website built using **Jekyll** and hosted on **GitHub Pages** with the **Minimal Mistakes** theme.
 
