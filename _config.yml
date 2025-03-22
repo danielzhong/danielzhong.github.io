@@ -65,20 +65,20 @@ plugins:
 author:
   name   : "Daniel Zhong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "3D Graphics Programmer & Game Developer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:danielzhong2000@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielzhong"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/danielzhong-/"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/assets/resume.pdf"
 
 footer:
   links:
