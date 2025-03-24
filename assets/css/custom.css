@@ -1,0 +1,10 @@
+/* Fix sticky TOC layout issues */
+.toc-wrapper {
+    position: sticky;
+    top: 100px;               /* Keeps space from top bar */
+    max-height: calc(100vh - 120px); /* Avoid overflowing viewport */
+    overflow-y: auto;         /* Makes it scrollable if too tall */
+    padding-right: 1rem;      /* Optional: spacing for scrollbar */
+    scrollbar-width: thin;    /* Optional: for Firefox */
+  }
+  
