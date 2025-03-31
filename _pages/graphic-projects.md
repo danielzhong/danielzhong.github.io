@@ -2,6 +2,8 @@
 title: "Computer Graphics Projects"
 permalink: /graphic-project/
 layout: single
+sidebar:
+  nav: projects_sidebar
 author_profile: true
 toc: true
 toc_sticky: true

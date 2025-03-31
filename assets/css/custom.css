@@ -6,5 +6,15 @@
     overflow-y: auto;         /* Makes it scrollable if too tall */
     padding-right: 1rem;      /* Optional: spacing for scrollbar */
     scrollbar-width: thin;    /* Optional: for Firefox */
-  }
-  
+}
+
+.splash-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  z-index: -1;
+}
