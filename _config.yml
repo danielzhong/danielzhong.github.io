@@ -108,4 +108,4 @@ tag_archive:
   type: liquid
   path: /tags/
 custom_css:
-  - /assets/css/custom.cs
+  - /assets/css/custom.css
