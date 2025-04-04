@@ -9,15 +9,15 @@ main:
   #   url: /about/
   - title: "Projects"
     sublinks:
-      - title: "Graphic Projects"
+      - title: "Computer Graphics"
         url: /graphic-project/
-      - title: "Game Projects"
+      - title: "Game Development"
         url: /game-project/
 
 projects_sidebar:
-  - title: "Projects"
+  - title: "PROJECTS"
     children:
-      - title: "Graphic Projects"
+      - title: "Computer Graphics"
         url: /graphic-project/
-      - title: "Game Projects"
+      - title: "Game Development"
         url: /game-project/

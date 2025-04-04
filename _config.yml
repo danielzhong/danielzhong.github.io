@@ -27,7 +27,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: null
+remote_theme: mmistakes/minimal-mistakes
 
 # Enable live reload and incremental build
 livereload: true

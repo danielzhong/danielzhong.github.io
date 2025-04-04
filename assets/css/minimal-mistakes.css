@@ -2221,7 +2221,7 @@ blockquote.notice--danger {
   position: absolute;
   left: 0;
   bottom: 0;
-  height: 4px;
+  height: 2px;
   background: #6f777d;
   width: 100%;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2238,16 +2238,43 @@ blockquote.notice--danger {
   float: left;
   width: auto;
 }
+.greedy-nav .visible-links .dropdown-toggle {
+  cursor: pointer;
+}
+.greedy-nav .visible-links .dropdown-toggle i {
+  margin-left: 0.25em;
+  transition: transform 0.3s ease;
+}
 .greedy-nav .visible-links .dropdown-content {
   display: none;
   position: absolute;
+  top: 82%;
   background-color: rgb(247.35, 247.35, 247.35);
-  min-width: 160px;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
-  z-index: 1;
+  min-width: 230px;
+  padding: 0.5em 0;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  z-index: 10;
+}
+.greedy-nav .visible-links .dropdown-toggle:hover i {
+  transform: rotate(180deg);
 }
 .greedy-nav .visible-links .dropdown-content a {
-  padding: 4px 8px;
+  display: block;
+  padding: 0.75em 1em;
+  font-size: 0.75em;
+  color: #3d4144;
+  text-decoration: none;
+  transition: background 0.3s ease, color 0.3s ease;
+  border-radius: 8px;
+}
+.greedy-nav .visible-links .dropdown-content a:hover {
+  background-color: white; /* SOFTER hover */
+  color: #6f777d; /* Primary color text on hover */
+}
+.greedy-nav .visible-links .dropdown-toggle:before {
+  display: none; /* No underline animation on "Projects" */
 }
 .greedy-nav .visible-links .dropdown:hover .dropdown-content {
   display: block;
