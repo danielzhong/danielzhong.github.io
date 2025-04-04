@@ -18,9 +18,7 @@ title: Daniel Zhong
 subtitle: "3D Graphics Programmer & Game Developer"
 email: danielzhong2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   Daniel Zhong's Portfolio — 3D Graphics Programmer & Game Developer specializing in real-time rendering, visual effects, and immersive games.
 github_username: danielzhong
 minimal_mistakes_skin: dark
 search: true
@@ -34,10 +32,10 @@ livereload: true
 incremental: true
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: null
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
