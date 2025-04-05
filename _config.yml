@@ -65,6 +65,7 @@ author:
   name   : "Daniel Zhong"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "3D Graphics Programmer & Game Developer"
+  location: "US"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
