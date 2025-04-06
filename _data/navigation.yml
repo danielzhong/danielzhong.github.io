@@ -11,6 +11,8 @@ main:
         url: /graphic-project/
       - title: "Game Development"
         url: /game-project/
+      - title: "Game Engine & Tool"
+        url: /tool-project/
   - title: "About"
     url: /about/
 
@@ -21,3 +23,5 @@ projects_sidebar:
         url: /graphic-project/
       - title: "Game Development"
         url: /game-project/
+      - title: "Game Engine & Tool"
+        url: /tool-project/
