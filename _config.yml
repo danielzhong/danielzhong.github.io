@@ -114,3 +114,5 @@ tag_archive:
   path: /tags/
 custom_css:
   - /assets/css/custom.css
+sass:
+  sass_dir: _sass
