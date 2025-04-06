@@ -70,15 +70,19 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:danielzhong2000@gmail.com"
+      new_tab: true
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/danielzhong"
+      new_tab: true
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/danielzhong-/"
+      new_tab: true
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
       url: "/assets/resume.pdf"
+      new_tab: true
 collections:
   posts:
     output: true
