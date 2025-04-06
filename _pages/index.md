@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Daniel Zhong"
+title: "Hi, I'm Daniel Zhong"
 permalink: /
 header:
   overlay_image: /assets/images/BG1.gif
@@ -15,7 +15,7 @@ header:
     - label: "Linkedin"
       url: https://www.linkedin.com/in/danielzhong-/
       new_tab: true
-excerpt: "3D Graphics Programmer & Game Developer"
+excerpt: "Building 3D Worlds & Game Engines"
 sitemap: false
 feature_row_projects:
   - image_path: /assets/images/Infinity.jpg
