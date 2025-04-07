@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Hi, I'm Daniel Zhong"
+title: "Welcome to Daniel Zhong's portfolio"
 permalink: /
 header:
   overlay_image: /assets/images/BG1.gif
