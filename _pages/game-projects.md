@@ -9,6 +9,8 @@ toc: true
 toc_sticky: true
 ---
 
+<div class="project-box" markdown="1">
+
 ## 🎮 Zera Reborn (Unity)
 
 **[▶ Watch Video](https://drive.google.com/file/d/1tHGmGYor7CCBXy4xFbluPCVvcwybqacp/view?usp=sharing)**
@@ -16,18 +18,22 @@ toc_sticky: true
 ![Zera Reborn Preview](https://github.com/user-attachments/assets/1d0923a6-f02b-4ecb-8237-e53d33c142b9)
 ![Zera Reborn Gameplay](https://github.com/user-attachments/assets/13711d9b-c676-47cb-bc3e-32fc15608c2a)
 
----
+</div>
+
+<div class="project-box" markdown="1">
 
 ## 🧙‍♂️ The Arcanist (Mixed Reality Game)
 
-**[📂 GitHub Repo](https://github.com/DanielZhong/The-Arcanist/tree/main)**
+**[🔗 GitHub Repo](https://github.com/DanielZhong/The-Arcanist/tree/main)**
 
 <video controls width="100%" style="max-width: 800px;">
   <source src="/assets/game_project/The_Arcanist.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
----
+</div>
+
+<div class="project-box" markdown="1">
 
 ## 🤖 Ragdoll Rampage (Unity + UE5.4)
 
@@ -38,7 +44,9 @@ toc_sticky: true
 ![Cover2](https://github.com/user-attachments/assets/9e1fc283-d836-49b7-a64e-ca85f8cce654)
 ![Cover3](https://github.com/user-attachments/assets/15c05b72-0193-4d9a-94a5-abcc494c5957)
 
----
+</div>
+
+<div class="project-box" markdown="1">
 
 ## 🧠 Push Fight To Talk (Unity)
 
@@ -47,15 +55,19 @@ toc_sticky: true
 ![Push Fight 1](https://github.com/user-attachments/assets/6c11deb4-bbad-4ac8-855d-aef568195046)
 ![Push Fight 2](https://github.com/user-attachments/assets/5250ddd7-373b-4d8c-b3cf-c3d1764769ec)
 
----
+</div>
+
+<div class="project-box" markdown="1">
 
 ## 🎨 Artful Escape: Endless Evasion
 
-**[📂 GitHub Repo](https://github.com/DanielZhong/ArtfulEscapeEndlessEvasion)**
+**[🔗 GitHub Repo](https://github.com/DanielZhong/ArtfulEscapeEndlessEvasion)**
 
 ![Artful Escape](https://github.com/user-attachments/assets/7c2f84b2-eae4-4966-a465-5abcb38f6bbe)
 
----
+</div>
+
+<div class="project-box" markdown="1">
 
 ## 🧩 More Memories Back (Unity)
 
@@ -64,7 +76,9 @@ toc_sticky: true
 ![More Memories 1](https://github.com/user-attachments/assets/9632cfc9-feb5-4c3d-b6e3-aaacf1b33796)
 ![More Memories 2](https://github.com/user-attachments/assets/348ab867-6648-4724-9c66-88efa047a9f6)
 
----
+</div>
+
+<div class="project-box" markdown="1">
 
 ## 🎼 Music Land (Unity)
 
@@ -75,4 +89,4 @@ toc_sticky: true
   Your browser does not support the video tag.
 </video>
 
----
+</div>

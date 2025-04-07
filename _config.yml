@@ -32,7 +32,7 @@ livereload: true
 incremental: true
 
 # Outputting
-permalink: null
+# permalink: null
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -116,3 +116,4 @@ custom_css:
   - /assets/css/custom.css
 sass:
   sass_dir: _sass
+permalink: /:categories/:title/
